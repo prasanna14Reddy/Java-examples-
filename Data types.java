@@ -16,9 +16,9 @@ short d = 45;
 
 double e = 4.3556 ;
 
-float f = 4.733f
+float f = 4.733f;
 
-long g = 12431
+long g = 12431;
 
 System.out.println("character: "+a);
 
